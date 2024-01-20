@@ -1,6 +1,6 @@
 thisdict = {
   "brand": "Fordd",
-  "model": "Mun",
+  "model": "Mu888n",
   "year": 2400 ;
 }
 
