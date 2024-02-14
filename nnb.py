@@ -5,7 +5,7 @@ thisdict = {
 }
 
 thisdict = {
-  "brand": "Forddd",
+  "brand": "Fordd",
   "model": "Mu3ang",
   "year": 19634 ;
 }
