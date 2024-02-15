@@ -1,5 +1,5 @@
 thisdict = {
-  "brand": "Fr",
+  "brnd": "Fr",
   "model": "Mun",
   "year": 24 ;
 }
