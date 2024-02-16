@@ -1,4 +1,4 @@
-thisdict = {
+thisdit = {
   "brnd": "Fr",
   "model": "Mun",
   "year": 24 ;
