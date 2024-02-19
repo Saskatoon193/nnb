@@ -1,5 +1,5 @@
 thisdit = {
-  "brd": "Fr",
+  "bd": "Fr",
   "model": "un",
   "year": 24 ;
 }
