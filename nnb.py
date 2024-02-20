@@ -1,4 +1,4 @@
-thisdit = {
+thisdt = {
   "bd": "Fr",
   "model": "un",
   "year": 24 ;
