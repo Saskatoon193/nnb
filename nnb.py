@@ -4,7 +4,7 @@ thisdt = {
   "year": 24 ;
 }
 
-thisdict = {
+thisict = {
   "brand": "Fordd",
   "model": "Mu3ang",
   "year": 19634 ;
