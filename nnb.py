@@ -1,6 +1,6 @@
 thisdt = {
   "bd": "Fr",
-  "moel": "un",
+  "el": "un",
   "year": 24 ;
 }
 
