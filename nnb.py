@@ -5,7 +5,7 @@ thisdt = {
 }
 
 thisict = {
-  "brand": "Ford",
+  "brand": "Fod",
   "model": "M",
   "year": 1964 ;
 }
