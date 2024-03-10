@@ -7,7 +7,7 @@ thisdt = {
 thisict = {
   "brand": "Fod",
   "model": "M",
-  "year": 1964 ;
+  "year": 194 ;
 }
 
 print(len(thisdict))
