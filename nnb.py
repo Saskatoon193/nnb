@@ -1,7 +1,7 @@
 thisdt = {
   "bd": "Fr",
   "el": "no",
-  "year": 24 ;
+  "yar": 24 ;
 }
 
 thisict = {
