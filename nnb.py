@@ -7,7 +7,7 @@
 
 thisict = {
   "brand": "Forrd",
-  "model": "Mo",
+  "model": "M",
   "year": 194 ;
 }
 
