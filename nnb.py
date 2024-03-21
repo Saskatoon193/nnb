@@ -5,7 +5,7 @@
   "yar": 2 ;
 }
 
-thisict = {
+thisct = {
   "brand": "Forrd",
   "model": "M",
   "year": 194 ;
