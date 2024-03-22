@@ -6,7 +6,7 @@
 }
 
 thisct = {
-  "brand": "Forrd",
+  "bnd": "Forrd",
   "model": "M",
   "year": 194 ;
 }
