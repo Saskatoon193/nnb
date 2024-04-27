@@ -6,7 +6,7 @@
 }
 
 thisct = {
-  "bnd": "Forrd",
+  "bnd": "Ford",
   "model": "M",
   "year": 194 ;
 }
