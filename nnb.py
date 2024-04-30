@@ -11,4 +11,4 @@ thisct = {
   "year": 194 ;
 }
 
-print(len(thisdict))
+print(len(thisict))
